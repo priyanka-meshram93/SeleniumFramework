@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;files.payload.java&apos; to &apos;Payload.java&apos;&#x0D;&#x0A;- Original project: &apos;SHLTechRestAssured&apos;&#x0D;&#x0A;- Original element: &apos;files.payload.java&apos;&#x0D;&#x0A;- Renamed element: &apos;files.Payload.java&apos;" description="Rename compilation unit &apos;payload.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;files{payload.java" name="Payload.java" references="false" stamp="1659100361143" version="1.0"/>
+</session>
